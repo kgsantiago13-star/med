@@ -586,8 +586,9 @@
 
 47. **"What's high yield here" — Trigger.**
     - The user sends a screenshot or text and asks "what's high yield here".
-    - Reply with 2 to 3 sentences only. No headings. No bullets. No callouts.
-    - The user memorizes these sentences. They must give a working idea of the topic on exam day.
+    - Reply with short bullet points only. Never a dense paragraph. No headings. No callouts.
+    - Give one fact per bullet. Keep each bullet to one short line. Aim for 3 to 6 bullets.
+    - The user memorizes these bullets. They must give a working idea of the topic on exam day.
     - Name the key terms, the one rule that separates look-alike items, and the classic clinical link if one exists.
     - Flag a trans error in one extra short sentence only when the source is wrong.
     - Do not build a quiz or a deck. Do not ask for the source.
