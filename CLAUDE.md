@@ -579,3 +579,15 @@
     - **Add a density check.** No card over 170 words. No sentence over 20 words. No analogy anywhere.
     - **Add a split check.** Every multi-step mechanism runs across consecutive cards, with no missing step.
     - Report as rule 31 layer 9 requires.
+
+---
+
+## Quick Answers
+
+47. **"What's high yield here" — Trigger.**
+    - The user sends a screenshot or text and asks "what's high yield here".
+    - Reply with 2 to 3 sentences only. No headings. No bullets. No callouts.
+    - The user memorizes these sentences. They must give a working idea of the topic on exam day.
+    - Name the key terms, the one rule that separates look-alike items, and the classic clinical link if one exists.
+    - Flag a trans error in one extra short sentence only when the source is wrong.
+    - Do not build a quiz or a deck. Do not ask for the source.
